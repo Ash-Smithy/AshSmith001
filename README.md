@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AshSmith001
+- 👋 Hi, I’m Ash Smith
 - 👀 I’m interested in Cake
-- 🌱 I’m currently learning NoT_Cake
-- 💞️ I’m looking to collaborate on Me, Myself & I
-- 📫 How to reach me : You can't.
+- 🌱 I’m currently learning about food
+- 💞️ I’m looking to collaborate on Me, Myself & I (G-Eazy Fan Boi?)
+- 📫 How to reach me : You can't. (but why do you want to?)
 
 <!---
 AshSmith001/AshSmith001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
